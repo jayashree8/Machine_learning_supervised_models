@@ -4,35 +4,24 @@
 
 #### The attributes are:
 
-    1) Daily Time Spent on Site
-    
-    2) Age
-    
-    3) Area Income
-    
-    4) Daily Internet Usage
-    
-    5) Ad Topic Line
-    
-    6) City
-    
-    7) Male
-    
-    8) Country
-    
-    9) Timestamp
-    
+    1) Daily Time Spent on Site    
+    2) Age    
+    3) Area Income    
+    4) Daily Internet Usage    
+    5) Ad Topic Line    
+    6) City    
+    7) Male    
+    8) Country    
+    9) Timestamp    
     10) Clicked on Ad
     
 #### The classification algorithm applied are:
 
-    1) Logistic Regression
-    
-    2) KNN
-    
+    1) Logistic Regression    
+    2) KNN    
     3) SVM
     
-See notebook [here]()
+See notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Advertising%20logistic%20reg%2C%20SVM%20and%20KNN/Advertising%20LogisticRegression%20KNN%20SVM.ipynb)
 
 ## 2) Diabetes Dataset
 
@@ -52,7 +41,7 @@ See notebook [here]()
 
     1) KNN
     
-See notebook [here]()
+See notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Diabetes%20KNN/diabetes%20KNN.ipynb)
 
 ## 3) Heart disease Dataset
 
@@ -96,49 +85,41 @@ See notebook [here]()
 
     1) KNN
     
-See notebook [here]()
+See notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Heart%20disease%20KNN/heart_disease_uci.ipynb)
 
 ## 4) Iris Dataset
 
 #### The attributes are:
 
-    1) sepal_length
-    
-    2) sepal_width
-    
-    3) petal_length
-    
-    4) petal_width
-    
+    1) sepal_length    
+    2) sepal_width    
+    3) petal_length    
+    4) petal_width    
     5) species 
     
 #### The classification algorithm applied are:
 
-    1) KNN
-    
+    1) KNN    
     2) SVM
     
-See notebook for KNN [here]()
+See notebook for KNN [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Iris%20KNN/Iris%20KNN.ipynb)
 
-See notebook for SVM [here]()
+See notebook for SVM [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Iris%20SVM/SVM-Iris.ipynb)
 
 ## 5) Kyphosis Dataset
 
 #### The attributes are:
 
-    1) Kyphosis
-    
-    2) Age
-    
-    3) Number
-    
+    1) Kyphosis   
+    2) Age    
+    3) Number    
     4) Start
     
 #### The classification algorithm applied are:
 
     1) Decision tree
     
-See notebook [here]()
+See notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Kyphosis%20decision%20tree/kyphosis%20decision%20tree.ipynb)
 
 ## 6) Loan Dataset
 
@@ -160,42 +141,31 @@ See notebook [here]()
     
 #### The classification algorithm applied are:
 
-    1) Decision tree
-    
+    1) Decision tree    
     2) Random forest
     
-See notebook for decision tree [here]()
+See notebook for decision tree [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Loan%20decision%20tree/Decision%20Trees%20Project%20.ipynb)
 
-See notebook for random forest [here]()
+See notebook for random forest [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Loan%20random%20forest/loan%20data%20decision%20tree%20random%20forest.ipynb)
 
 ## 7) Titanic Dataset
 
 #### The attritubes are:
 
     1) Pclass-Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
-
     2) survival-Survival (0 = No; 1 = Yes)
-
     3) name-Name
-
     4) sex-Sex
-
     5) age-Age
-
     6) sibsp-Number of Siblings/Spouses Aboard
-
     7) parch-Number of Parents/Children Aboard
-
     8) ticket-Ticket Number
-
     9) fare-Passenger Fare (British pound)
-
     10) cabin-Cabin
-
     11) embarked-Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
     
 #### The classification algorithm applied are:
 
     1) Logistic Regression
     
-See notebook [here]()
+See notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/Titanic%20logistic%20reg/Titanic%20logistic%20regression.ipynb)
