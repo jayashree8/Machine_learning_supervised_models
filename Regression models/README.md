@@ -1,3 +1,9 @@
+# Linear regression
+See sample notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Regression%20models/LinearRegression.ipynb)
+
+Find article [here](https://jayashree8.medium.com/helping-bloom-e-commerce-business-using-linear-regression-python-7de8f2334fb5)
+
+
 # The regression models worked on are:
 
 ## 1) 1000 companies regression
