@@ -1,5 +1,5 @@
 # K-nearest neighbors
-See sample notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Regression%20models/LinearRegression.ipynb)
+See sample notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/KNN.ipynb)
 
 See article [here](https://jayashree8.medium.com/grouping-classes-using-k-nearest-neighbors-algorithm-python-81f04f0a1fba)
 
