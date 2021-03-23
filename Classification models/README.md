@@ -1,3 +1,9 @@
+# K-nearest neighbors
+See sample notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Regression%20models/LinearRegression.ipynb)
+
+See article [here](https://jayashree8.medium.com/grouping-classes-using-k-nearest-neighbors-algorithm-python-81f04f0a1fba)
+
+
 # The classification models worked on are:
 
 ## 1) Advertising Dataset
