@@ -3,6 +3,11 @@ See sample notebook [here](https://github.com/jayashree8/Machine_learning_superv
 
 See article [here](https://jayashree8.medium.com/grouping-classes-using-k-nearest-neighbors-algorithm-python-81f04f0a1fba)
 
+# SVM
+See sample notebook [here](https://github.com/jayashree8/Machine_learning_supervised_models/blob/master/Classification%20models/SVM.ipynb)
+
+See article [here](https://jayashree8.medium.com/using-gridsearchcv-to-build-svm-model-for-breast-cancer-dataset-7ca8e5cd6273)
+
 
 # The classification models worked on are:
 
